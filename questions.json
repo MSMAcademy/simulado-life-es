@@ -1,0 +1,1130 @@
+[
+  {
+    "id": 1,
+    "question": "El suplemento de beneficios que se adjunta a una póliza de seguro de vida que asegura a todos los mienbros de una familia se llama:",
+    "options": {
+      "A": "Enmienda a término para el conjuge",
+      "B": "Enmienda a término para hijos",
+      "C": "Enmienda a término para la familia",
+      "D": "Enmienda a término para sobreviventes"
+    },
+    "sourcePage": 2,
+    "answer": "C"
+  },
+  {
+    "id": 2,
+    "question": "Qué de lo seguinte es una característica del seguro de vida entera?",
+    "options": {
+      "A": "un alto costo de la protección si la cobertura caducara después de un periodo de tiempo corto",
+      "B": "una reducción en los valores sin riesgo de pérdida después de los 65 años de edad",
+      "C": "una ausencia de las opciones de liquidación",
+      "D": "un requísito de que elcosto de la cobertura se pague antes de los 65 años de edad"
+    },
+    "sourcePage": 2,
+    "answer": "D"
+  },
+  {
+    "id": 3,
+    "question": "La corporacion garante de companhias de seguros de vida (LHGA, por sus signinas em Ingues) de massachutts se estabelecia para proteger a los consumidores em caso de:",
+    "options": {
+      "A": "insolvência",
+      "B": "desumanilização",
+      "C": "Funcion con otra compañía",
+      "D": "Oferta de parte de la compañía"
+    },
+    "sourcePage": 2,
+    "answer": "A"
+  },
+  {
+    "id": 4,
+    "question": "En massachustts, las regulaciones para los contratos de seguros Variables son establecidas por todos los seguintes, EXCEPTO:",
+    "options": {
+      "A": "La comision de bolsa y valores",
+      "B": "El departamento de seguros",
+      "C": "Las autoridades de titulos del estado",
+      "D": "La oficina del procurador general del Estado"
+    },
+    "sourcePage": 2,
+    "answer": "D"
+  },
+  {
+    "id": 5,
+    "question": "Un ejemplo de una designación de beneficiario por clase es:",
+    "options": {
+      "A": "Todos los hijos del asegurado",
+      "B": "Un padre o madre especifico del asegurado",
+      "C": "Un accionista nombrado de una corporación",
+      "D": "El patrimonio del asegurado"
+    },
+    "sourcePage": 3,
+    "answer": "A"
+  },
+  {
+    "id": 6,
+    "question": "Qué es ciento con respecto a un jubilación aprobado ?",
+    "options": {
+      "A": "Las contribuciones del empleador serán cedidas completamente del empleado en todo momento",
+      "B": "Las contribuciones del empleado reducen los i mpuestos de seguro social",
+      "C": "Las participación de un propietario - Empleado está prohibida",
+      "D": "Las contribubuciones hechas por el empleador son deducibles de los impuestos"
+    },
+    "sourcePage": 3,
+    "answer": "D"
+  },
+  {
+    "id": 7,
+    "question": "Todas las declaraciones seguintes sobre seguro de crédito colectivo son verdaderas EXCEPTO:",
+    "options": {
+      "A": "El monto total del seguro disponible para qualquera de los indivíduos es ilimitados",
+      "B": "El acreedor debe destinar los pagos del seguros ao saldo del préstamo",
+      "C": "El creedor geralmente es dueño y beneficiario de la póliza",
+      "D": "El proprietario tiene derecho la cancelación del seguro se el préstamo se paga por adelantado o refinancia"
+    },
+    "sourcePage": 3,
+    "answer": "C"
+  },
+  {
+    "id": 8,
+    "question": "Las anuidades inmediatas normalmente las compras las personas que:",
+    "options": {
+      "A": "Desan una deducción de impuestos para el año corriente",
+      "B": "Quíeren hacer contribuciones a una anuidade con amparo tributario",
+      "C": "Tiene una suma global para investir al jubilarse",
+      "D": "Quieren acumular fondos para jubilarse más tarde"
+    },
+    "sourcePage": 3,
+    "answer": "C"
+  },
+  {
+    "id": 9,
+    "question": "Todos los seguintes son tipos de canjes de pólizas de seguro que se puedem realizar sim impuestos actuales, EXCEPCTO:",
+    "options": {
+      "A": "El canje de una anuidade por una póliza de seguro de vida",
+      "B": "El canje de una póliza de seguro de vida por una anuidade",
+      "C": "El canje de una anuidade por otro contrato de anuidade",
+      "D": "El canje de una póliza de seguro de vida por otra póliza de vida"
+    },
+    "sourcePage": 4,
+    "answer": "A"
+  },
+  {
+    "id": 10,
+    "question": "En comparación con una clasificación de riesgo preferido para una póliza de seguro de vida indéntica de la misma aseguradora, una clasificación de riesgo Éstándar tiene:",
+    "options": {
+      "A": "Mas opciones de resolución",
+      "B": "Menos opciones de dividendos",
+      "C": "Primas más Bajas",
+      "D": "Primas mas Altas"
+    },
+    "sourcePage": 4,
+    "answer": "D"
+  },
+  {
+    "id": 11,
+    "question": "Los requisitos para suscribir una cobertura de seguro de vida por un monto con frecuencia incluy en todo lo seguinte, EXCEPTO:",
+    "options": {
+      "A": "Análissis de sangue",
+      "B": "Examen de la vista",
+      "C": "Examen médico",
+      "D": "Muestra de orina"
+    },
+    "sourcePage": 4,
+    "answer": "B"
+  },
+  {
+    "id": 12,
+    "question": "Un contrato válido require:",
+    "options": {
+      "A": "Una oferta por escrito",
+      "B": "Un formulario de lá compania",
+      "C": "Una causa",
+      "D": "Evídencia escrita"
+    },
+    "sourcePage": 4,
+    "answer": "C"
+  },
+  {
+    "id": 13,
+    "question": "La información sobre la clasificación crediticia de una persona está contenida en:",
+    "options": {
+      "A": "Un informe del agente",
+      "B": "Un informe del consumidor",
+      "C": "Un informe del médico tratante",
+      "D": "Un informe del negociado de indices"
+    },
+    "sourcePage": 5,
+    "answer": "B"
+  },
+  {
+    "id": 14,
+    "question": "Las pólizas de seguro de vida tiene que tiene todas las disposiciones seguintes, EXCEPTO:",
+    "options": {
+      "A": "Cláusula de renuncia de la prima",
+      "B": "Cláusula de declaración falsa de la edad del asegurado",
+      "C": "Cláusula de periodo de graçia",
+      "D": "Cláusula de incontestabilidad"
+    },
+    "sourcePage": 5,
+    "answer": "A"
+  },
+  {
+    "id": 15,
+    "question": "Los pagos de beneficios bajo una acuidad mancomunada y de último sobreviviente normalmente continúan hasta el falecimiento de:",
+    "options": {
+      "A": "Ambos pensionados",
+      "B": "Un pensionado",
+      "C": "Todos los beneficiários",
+      "D": "Un beneficiário"
+    },
+    "sourcePage": 5,
+    "answer": "A"
+  },
+  {
+    "id": 16,
+    "question": "Cuál de las seguintes es una ventaja del seguro de vida?",
+    "options": {
+      "A": "El costo es aproximadamente el mismo que el seguro de vida completo",
+      "B": "Será rentable a largo plazo si se matiene hasta la edad de 65 años o más.",
+      "C": "Oferece una protección del seguro de maneira permanente.",
+      "D": "La prima inicial es menor que para un monto equivalente del seguro de vida completo Página 5"
+    },
+    "sourcePage": 5,
+    "answer": "D"
+  },
+  {
+    "id": 17,
+    "question": "As rescatar un contrato de seguro de vida por su valor en efectivo, el total de primas pagadas menos el total de los dividendos recebidos en efectivo o usados para compensar la primas es:",
+    "options": {
+      "A": "El valor en efectivo",
+      "B": "El valor del préstamo",
+      "C": "El pago bruto",
+      "D": "El costo base"
+    },
+    "sourcePage": 6,
+    "answer": "D"
+  },
+  {
+    "id": 18,
+    "question": "Cuál de las seguientes causas de muerte probablemente seria EXCLUIDA de cobertura bajo una enmienda de muerte accidental agregada a la póliza de seguro de vida?",
+    "options": {
+      "A": "accidentes automovilísticos que ocurren por negligencia del asegurado",
+      "B": "accidentes de avíones comerciales em los cuales el asegurado era un pasagero con pasaje pagado",
+      "C": "heridas que el asegurado se autoinflinge intencionalmente",
+      "D": "Muete accidental causada por negligência del beneficiario"
+    },
+    "sourcePage": 6,
+    "answer": "C"
+  },
+  {
+    "id": 19,
+    "question": "Qué anualidad proporcionária beneficios durante cinco años al beneficiario (beneficiary) si el beneficiario de la anualidad (annuitant) mureira después del inicio de los pagos de beneficio?",
+    "options": {
+      "A": "Una anualidad contingente",
+      "B": "Una anualidad vitalicia com un periodo incondicional de diez años",
+      "C": "Una anualidad incondicional de cinco años",
+      "D": "Una anualidad temporal de dez años"
+    },
+    "sourcePage": 6,
+    "answer": "C"
+  },
+  {
+    "id": 20,
+    "question": "Qué se ve afectado por la característica de indíces de la pólizas de seguro de vida indexadas por el mercado bursátil ?",
+    "options": {
+      "A": "El valor en efectivo",
+      "B": "Los dividendos",
+      "C": "La cantidad nominal",
+      "D": "êl reembolso de la prima Página 6 d"
+    },
+    "sourcePage": 6,
+    "answer": "A"
+  },
+  {
+    "id": 21,
+    "question": "Todas las siguintes son opciones de dividendos en las pólizas de seguro de vida, EXCEPTO:",
+    "options": {
+      "A": "Aplicar los dividendos para reducir la prima debida",
+      "B": "Usar los dividendos para comprar un seguro de vida adicional liquidado",
+      "C": "Acumular los dividendos con intereses",
+      "D": "Recibir el valor en efectivo total de la póliza."
+    },
+    "sourcePage": 7,
+    "answer": "D"
+  },
+  {
+    "id": 22,
+    "question": "Cuál anualidad es apropriada para una persona de 50 años que quiere ajudar a pagar la educación universitaria de su nieto en quince años más?",
+    "options": {
+      "A": "Una anualidad de sobreviviente",
+      "B": "Una anualidad diferida",
+      "C": "Una anualidad inmediata",
+      "D": "Una anualidade vitalicia pura"
+    },
+    "sourcePage": 7,
+    "answer": "B"
+  },
+  {
+    "id": 23,
+    "question": "En un seguri de vida, y suponiendo que no haya deuda nei acumulación de dividendos,? Cuánto debe pagar la aseguradora si el asegurado muere durante el periodo de gracia sin haber pagado la prima?",
+    "options": {
+      "A": "El valor nominal de la póliza",
+      "B": "El valor em efectivo de la póliza",
+      "C": "El valor nominal de la póliza menos la prima adeudada",
+      "D": "El monto reducido del seguro pagado y provisto bajo la disposición sin riesgo de pérdida."
+    },
+    "sourcePage": 7,
+    "answer": "C"
+  },
+  {
+    "id": 24,
+    "question": "Todos los factores siguientes ayudan a determinar si se requeríān exámenes médicos y análisis de laboratorio para suscribir un seguro de vida, EXCEPTO:",
+    "options": {
+      "A": "Edad",
+      "B": "Historial médico",
+      "C": "Monto del seguro de vida",
+      "D": "Tipo del seguro de vida Página 7"
+    },
+    "sourcePage": 7,
+    "answer": "D"
+  },
+  {
+    "id": 25,
+    "question": "En qué circunstancias tendrá derecho un beneficiario eventual a los pagos de un seguro de vida?",
+    "options": {
+      "A": "Todos los pagos se hacen al beneficiario primario",
+      "B": "Después de que se hayan liquidado todas la deudas pendientes del asegurado",
+      "C": "Si el beneficiario primario ha falecido antes que el asegurado",
+      "D": "Si el beneficiario eventual es un hijo del asegurado"
+    },
+    "sourcePage": 8,
+    "answer": "C"
+  },
+  {
+    "id": 26,
+    "question": "Si el beneficiario primario de una póliza de seguro de vida fallece antes que el asegurado, el beneficiario eventual:",
+    "options": {
+      "A": "Comparte los pagos de la póliza con el patrimonio del asegurado",
+      "B": "Debe solicitar a la corte los pagos de la póliza",
+      "C": "Debe tener un interés asegurable",
+      "D": "Recibe los pagos de la póliza"
+    },
+    "sourcePage": 8,
+    "answer": "D"
+  },
+  {
+    "id": 27,
+    "question": "Pedir un préstamo sobre una póliza de seguro de vida:",
+    "options": {
+      "A": "Trae como resultado una distribución de ingresos gravables al dueño de la póliza.",
+      "B": "Trae como resultado de pérdida de la exención de impuestos delos pagos de loss beneficios por muerte",
+      "C": "Convíerte el seguuro en un contrato dotal modificado (MEC).",
+      "D": "Reduce el monto de dinero que se puede recibir al recargarse el contrato."
+    },
+    "sourcePage": 8,
+    "answer": "D"
+  },
+  {
+    "id": 28,
+    "question": "En cuál de las siguintes circunstancias se puede usar a un grupo como beneficiario de um seguro de vida?",
+    "options": {
+      "A": "Para nombrar a los hijos del asegurado como los beneficiarios sin tener que nombrarlos individualmente.",
+      "B": "Para donar los beneficios del seguro a una organización benéfica en participar.",
+      "C": "Para establecer un fondo fiduciario para los para los hijos del asegurado",
+      "D": "Para nombrar a una persona en particular como beneficiario para que reciba los beneficios de parte de un grupo"
+    },
+    "sourcePage": 8,
+    "answer": "A"
+  },
+  {
+    "id": 29,
+    "question": "Un productor debe ser nombrado por un asegurador:",
+    "options": {
+      "A": "Antes de obtener una licencia de seguro válida.",
+      "B": "En un formulario prescrito por el comisionado de seguros.",
+      "C": "Ser elegible para tomar un examen de licencia.",
+      "D": "O la licencia se terminará automáticamente en un plazo de 120 días."
+    },
+    "sourcePage": 9,
+    "answer": "B"
+  },
+  {
+    "id": 30,
+    "question": "Bajo la ley de la agencia, a quién se considera el principalen la relación establecida cuando una compañia de seguros designa a un agente?",
+    "options": {
+      "A": "Al dueño de la agencia",
+      "B": "Al agente",
+      "C": "A la compañía de seguros",
+      "D": "A los clientes del agente"
+    },
+    "sourcePage": 9,
+    "answer": "C"
+  },
+  {
+    "id": 31,
+    "question": "Una póliza de seguro de vida entera de prima única podria definirse como una póliza que proporciona:",
+    "options": {
+      "A": "Protección por sólo un número limitado de años",
+      "B": "Un monto de seguro que disminuye a lo largo de su duración",
+      "C": "Protección vitalicia porque es una póliza pagada por completoe",
+      "D": "Un beneficio de anualidad vitalicia además del seguro"
+    },
+    "sourcePage": 9,
+    "answer": "C"
+  },
+  {
+    "id": 32,
+    "question": "Queé es cierto con respecto a un seguro de vida ajustable?",
+    "options": {
+      "A": "La póliza mientras está vigente puede alterar entre las formas de un seguro de vida a término y un seguro de vida entera.",
+      "B": "La única opción sin riesgo de pérdida disponible ese efectivo.",
+      "C": "No hay opciones de liquidación disponibles.",
+      "D": "Es una forma de anualidad que proporciona ingresos para la jubilación Página 9"
+    },
+    "sourcePage": 9,
+    "answer": "A"
+  },
+  {
+    "id": 33,
+    "question": "Cuál es la función principal de un agente al suscribir un seguro de vida?",
+    "options": {
+      "A": "Asegurar que la solicitud proporcione la información correcta a la aseguradora",
+      "B": "Reconocer la cobertura inmediatamente sin acrobación de la oficina central",
+      "C": "Emitir la póliza si toda la información se suscripción es correcta y completa",
+      "D": "Obtener información de la Agencia de imformación Médica"
+    },
+    "sourcePage": 10,
+    "answer": "A"
+  },
+  {
+    "id": 34,
+    "question": "La multa por viola una orden de case y abstención pueden incluir todo lo seguintes EXCEPTO:",
+    "options": {
+      "A": "Suspensión de la licencia",
+      "B": "Revocación de la licencia",
+      "C": "Una multa de $10.000",
+      "D": "Completar una curso de leyes de seguro de Massachusetts"
+    },
+    "sourcePage": 10,
+    "answer": "D"
+  },
+  {
+    "id": 35,
+    "question": "La clasificación de riesgo preferente está disponible para solicitantes de seguro de vida que:",
+    "options": {
+      "A": "Paguen una prima fija aumentada",
+      "B": "Fuman menos de una cajetilla de cigarríllos al día",
+      "C": "Tienen una mejor expectativa de vida el promedio",
+      "D": "No tienen otra cobertura de seguro de vida"
+    },
+    "sourcePage": 10,
+    "answer": "C"
+  },
+  {
+    "id": 36,
+    "question": "El beneficio por muerte accidental proporcionado por una póliza de seguro de vida puede ser clasificado como:",
+    "options": {
+      "A": "Una cláusula adicional opcional a la póliza",
+      "B": "Una exclusión de la póliza",
+      "C": "Una forma de anualidad",
+      "D": "Una opción de incaducidad Página 10 de 94"
+    },
+    "sourcePage": 10,
+    "answer": "A"
+  },
+  {
+    "id": 37,
+    "question": "Cuántas vidas normalmente asegura una póliza de seguro de vida de survivencia?",
+    "options": {
+      "A": "Una",
+      "B": "Dos",
+      "C": "Tres",
+      "D": "Cuatro"
+    },
+    "sourcePage": 11,
+    "answer": "B"
+  },
+  {
+    "id": 38,
+    "question": "Un plan 401 (K) geralmente proporciona a los participantes:",
+    "options": {
+      "A": "Una opción de compra de acciones",
+      "B": "Un beneficio de jubilación definido",
+      "C": "Una opción de diferir el salario",
+      "D": "Una póliza de seguro de crédito"
+    },
+    "sourcePage": 11,
+    "answer": "C"
+  },
+  {
+    "id": 39,
+    "question": "El comprador de una anualidad diferida normalmente pretende que los beneficios de ingresos comiencen:",
+    "options": {
+      "A": "Tras el fallecimiento del mencionado",
+      "B": "A petición del beneficiario designado",
+      "C": "Dentro de varias semanas después de comprar la anualidad",
+      "D": "En una fecha especifica, a menudo varios años después de la emisión"
+    },
+    "sourcePage": 11,
+    "answer": "D"
+  },
+  {
+    "id": 40,
+    "question": "Cuál es el propósito de fechar una póliza de seguro de vida con efecto retroativo?",
+    "options": {
+      "A": "Eliminar el el período de inspección",
+      "B": "Utilizar primas basadas en una edad anterior",
+      "C": "Hacer que la cobertura entre en vigor antes de un problem médico reciente",
+      "D": "Reducir el valor nominal de la póliza Página 11 de 94"
+    },
+    "sourcePage": 11,
+    "answer": "B"
+  },
+  {
+    "id": 41,
+    "question": "En la suscripción de un seguro de vida, qué formulario podría pedir la opnión personal del agente sobre el carácter del solícitante?",
+    "options": {
+      "A": "Parte l de la solicitud",
+      "B": "Parte ll de la solicitud",
+      "C": "Informe de inspección",
+      "D": "Informe del agente"
+    },
+    "sourcePage": 12,
+    "answer": "D"
+  },
+  {
+    "id": 42,
+    "question": "Quién tiene la autoridad de cambiar al beneficiario de una anualidad individual?",
+    "options": {
+      "A": "El beneficiarío",
+      "B": "El titular",
+      "C": "El fideicomisario",
+      "D": "El pensionario"
+    },
+    "sourcePage": 12,
+    "answer": "B"
+  },
+  {
+    "id": 43,
+    "question": "El crecimiento de las inversiones de un plan de participación en las ultimadas y de jubilación no es tributable como ingreso corriente. Quién se beneficia con esta ventaja fiscal?",
+    "options": {
+      "A": "El empleador",
+      "B": "El fideicomisario del plan",
+      "C": "Los empleados que participan en el plan",
+      "D": "El Servicio de Rentas Internas"
+    },
+    "sourcePage": 12,
+    "answer": "C"
+  },
+  {
+    "id": 44,
+    "question": "Según el requisito de “distribución mínima”, un plan de jubilación aprobado tiene que distribuir, por lo menos, cienta cantidad cada año después de que el participante llegue a la edad de:",
+    "options": {
+      "A": "59- 1/2",
+      "B": "62",
+      "C": "65",
+      "D": "70- 1/2 Página 12 de 94"
+    },
+    "sourcePage": 12,
+    "answer": "D"
+  },
+  {
+    "id": 45,
+    "question": "Una cesión de aval de una póliza de seguro de vida a menudo se usa para:",
+    "options": {
+      "A": "Transferir todos los derechos de propriedad a un cesionario",
+      "B": "Proporcinar una seguridad para un préstamo",
+      "C": "Cambiar las designaciones de beneficiario revocables",
+      "D": "Reducir los beneficios pagables al beneficiario"
+    },
+    "sourcePage": 13,
+    "answer": "B"
+  },
+  {
+    "id": 46,
+    "question": "Cuál contrato proporciona un beneficio de ingreso hasta que ocurre la primeira muerte de entre dos o más beneficiarios (annuitants)?",
+    "options": {
+      "A": "Una anualidade conjunta y sobrevivente",
+      "B": "Una anualidad temporal",
+      "C": "Una anualidad vitalicia conjunta",
+      "D": "Úna anualidad vitalicia de un solo beneficiario (annuitant)"
+    },
+    "sourcePage": 13,
+    "answer": "C"
+  },
+  {
+    "id": 47,
+    "question": "Una transacción en la que un contrato de anualidad existente es finalizado y uno nuevo es emitido se le conoce como:",
+    "options": {
+      "A": "Conversión",
+      "B": "Continuación",
+      "C": "Reemplazo os",
+      "D": "Reinstalación"
+    },
+    "sourcePage": 13,
+    "answer": "C"
+  },
+  {
+    "id": 48,
+    "question": "Una razón para nombrar un fideicomiso en vez de a un individuo como beneficiario de una póliza de seguro de vida es para:",
+    "options": {
+      "A": "Proveer a los herdeiros un pago en suma global",
+      "B": "Proporcionar una administración de los beneficios",
+      "C": "Evitar los impuestos federales sobre los beneficios",
+      "D": "Evitar una validación del testamento"
+    },
+    "sourcePage": 13,
+    "answer": "B"
+  },
+  {
+    "id": 49,
+    "question": "Cuánto impuesto se retiene de los fondos que se transfieren directamente de una cuenta IRA a otra cuenta IRA?",
+    "options": {
+      "A": "10%",
+      "B": "15%",
+      "C": "50%",
+      "D": "Nada"
+    },
+    "sourcePage": 14,
+    "answer": "D"
+  },
+  {
+    "id": 50,
+    "question": "Bajo las Leas Federales, un agente de seguros ouede ser sentenciado a prisión por:",
+    "options": {
+      "A": "Vender seguros con una licencia de no residente",
+      "B": "Malvesar dinero de una compañía de seguros",
+      "C": "Inducir a un cliente a firmar una solicitu de seguro",
+      "D": "Demandar a una aseguradora debido a violaciones contractuales"
+    },
+    "sourcePage": 14,
+    "answer": "B"
+  },
+  {
+    "id": 51,
+    "question": "El término “agente de acuerdo s de seguro de vida” puede referirse a",
+    "options": {
+      "A": "Un contador público certificado",
+      "B": "Un proveedor de auderdos de seguro de vida con licencia",
+      "C": "Alguien que tiene licencia para negociar un contrato de acuerdo de seguir de vida",
+      "D": "Un abogado habilitado licenciado"
+    },
+    "sourcePage": 14,
+    "answer": "D"
+  },
+  {
+    "id": 52,
+    "question": "Cuál beneficio no está disponible en una anualidad fija típica, pero se puede obtener en una anualidad indexada?",
+    "options": {
+      "A": "Una tasa de rendimiento mínima garantizada",
+      "B": "Una variedad devociones de pago de la anualidadud",
+      "C": "La seguridad del capital",
+      "D": "Una protección a largo plazo contra la inflación Página 14 de 94"
+    },
+    "sourcePage": 14,
+    "answer": "D"
+  },
+  {
+    "id": 53,
+    "question": "Durante el período impugnable, una compañía de seguros puede rescindir una póliza de seguro de vida por todos los motivos signientes, EXCEPTO:",
+    "options": {
+      "A": "Declaración falsa de la edad en la solicitud",
+      "B": "Declaración falsa esencial en la solicitud",
+      "C": "Frande en la compra de la póliza",
+      "D": "Encubrimiento esencial al comprar la póliza"
+    },
+    "sourcePage": 15,
+    "answer": "A"
+  },
+  {
+    "id": 54,
+    "question": "Qué es cierto al fallecer un pensionado bajo una anualidad de vida conjunta?",
+    "options": {
+      "A": "El pensionado sobreviviente continuaria recebiendo los mismos beneficios.",
+      "B": "Los beneficiario del pensionado sobreviviente cesarían completamente",
+      "C": "Un beneficiario designado comenzaria a recibir pagos de beneficios de por vida",
+      "D": "Los beneficios del pensionsdo sobrevivi se reducirían por la mitad."
+    },
+    "sourcePage": 15,
+    "answer": "A"
+  },
+  {
+    "id": 55,
+    "question": "En una póliza de vida entera que permite elegir opciones de dividendos, qué debe incluirse?",
+    "options": {
+      "A": "Los dividendos se acumulan a una tasa garantizada.",
+      "B": "Los dividendos se diferen por un año.",
+      "C": "Los dividendos no están garantizados.",
+      "D": "Los dividendos están garantizados después del primer año. a"
+    },
+    "sourcePage": 15,
+    "answer": "C"
+  },
+  {
+    "id": 56,
+    "question": "Uno de los propósitos deun plan aprobado participación en las utilidades es:",
+    "options": {
+      "A": "Motivar a la administración a lograr un margen de ganancias del 25%",
+      "B": "Distribuiruna parte de las ganancias de la compaña a los empleados",
+      "C": "Liquidar los activos de una corporación",
+      "D": "Recompesar a los accionistas de una iente corporación"
+    },
+    "sourcePage": 15,
+    "answer": "B"
+  },
+  {
+    "id": 57,
+    "question": "Todos los factores siguientes normalmente afectan las tarifas de las primas de los seguros de vida, EXCEPTO:",
+    "options": {
+      "A": "Mortalidad",
+      "B": "Gastos",
+      "C": "Interés",
+      "D": "beneficiarios"
+    },
+    "sourcePage": 16,
+    "answer": "D"
+  },
+  {
+    "id": 58,
+    "question": "Las compañías de seguro deben mantener un nivel minimo de activos calificados para demostrar :",
+    "options": {
+      "A": "Primas adquiridas",
+      "B": "Beneficios de suscripción",
+      "C": "Ingresos por inversiones",
+      "D": "Solvencia"
+    },
+    "sourcePage": 16,
+    "answer": "D"
+  },
+  {
+    "id": 59,
+    "question": "Si el dueño de una póliza de seguro de vida NO ha seleccionado una opción de liquidación antes de muerte del asegurado, cuál de las siguientes declaraciones es cierta?",
+    "options": {
+      "A": "El beneficiario tiene derecho de seleccionar una opción después de la muete del asegurado",
+      "B": "La aseguradora selecciona la opción más beneficiosa para el beneficiario.",
+      "C": "Los pagos se harán de acuerdo con la cláusula de derecho a pago.",
+      "D": "No se puede seleccionar opciones después de la mete del asegurado"
+    },
+    "sourcePage": 16,
+    "answer": "A"
+  },
+  {
+    "id": 60,
+    "question": "En 1990, una persona pagó $20.000 para comprar una anualidad diferida de prima única no aprobada.Cuando, depués de ocho años, el valor en efectivo aumentó a $35.000, el dueño hizo un retiro de $10.000. La cantidad retirada:",
+    "options": {
+      "A": "Queda completamente sujeta a impuestos como ingreso ordinario.",
+      "B": "Queda parcialmente sujeta a impuestos como ingreso ordinario.",
+      "C": "Queda completamente sujeta a impustos como ganancias de capital.",
+      "D": "Es una recuperación libre de impuestos de una inversión"
+    },
+    "sourcePage": 17,
+    "answer": "A"
+  },
+  {
+    "id": 61,
+    "question": "Una solicitud de seguro de vida debe contener todo lo siguiente, EXCEPTO:",
+    "options": {
+      "A": "El nombre y la dirección del solicitante",
+      "B": "La firma del solicitante",
+      "C": "La fecha de la solicitud",
+      "D": "La fecha de vencimiento"
+    },
+    "sourcePage": 17,
+    "answer": "D"
+  },
+  {
+    "id": 62,
+    "question": "Qué tabla muestra la tasa de faleccimento por edad de determinados grupos de gente?",
+    "options": {
+      "A": "La tabla de mortalidad",
+      "B": "La tabla de mortalidad",
+      "C": "La tabla de tarifas de prima",
+      "D": "La tabla de dividendos"
+    },
+    "sourcePage": 17,
+    "answer": "A"
+  },
+  {
+    "id": 63,
+    "question": "Todos los seguintes son críterios para suscribir seguros de vida individual, EXCEPTO:",
+    "options": {
+      "A": "Sexo",
+      "B": "Religión",
+      "C": "Oculpación",
+      "D": "Habilidad para pagar las primas Página 17 de 94"
+    },
+    "sourcePage": 17,
+    "answer": "B"
+  },
+  {
+    "id": 64,
+    "question": "El monto pagadero al tenedor de una póliza de seguro de vida entera cuando se rescata antes de la fecha de vencimiento es el:",
+    "options": {
+      "A": "Valor de la prima",
+      "B": "Valor en efectivo",
+      "C": "Valor del pago cumplido",
+      "D": "Valor del préstamo"
+    },
+    "sourcePage": 18,
+    "answer": "B"
+  },
+  {
+    "id": 65,
+    "question": "Qué respalda las garantías en un contrato de anualidad fija?",
+    "options": {
+      "A": "La Corporación Federal de Seguros de Depósitos (FDIC)",
+      "B": "Toda la fey el crédito del gobiemo de los Estados Unidos",
+      "C": "Los activos generales de la compania de seguros",
+      "D": "Los activos que la compañía de seguros tiene en una cuenta separada"
+    },
+    "sourcePage": 18,
+    "answer": "C"
+  },
+  {
+    "id": 66,
+    "question": "Un agente de seguros de vida licenciado en el estado de Massachusetts está autorizado para:",
+    "options": {
+      "A": "Aprobar el pago de una reclación",
+      "B": "Reinstalar un contrato de seguro de la fecha de vencimiento",
+      "C": "Solicitar, recibir y enviar solicitudes de seguro a la aseguradora",
+      "D": "Reemplazar una póliza sin notificar a la aseguradora"
+    },
+    "sourcePage": 18,
+    "answer": "C"
+  },
+  {
+    "id": 67,
+    "question": "Qué tipo de póliza de seguro de vida está diseñada para pagar el saldo de un préstamo hipotecario a treintaaños en caso del fallecimiento del asegurador?",
+    "options": {
+      "A": "Seguro de vida entera a 30 pagos",
+      "B": "De término decreciente a 3o años",
+      "C": "De término nivelado a 30 años",
+      "D": "Dotal a 30 años"
+    },
+    "sourcePage": 18,
+    "answer": "B"
+  },
+  {
+    "id": 68,
+    "question": "La cláusula de un contrato de seguro de vida que prohíbe a la aseguradora cuestionar la validez del contrato después de haber transcurrido un cierto periodo es la:",
+    "options": {
+      "A": "Cláusula renovable garantizada",
+      "B": "Cláusula de contrato completo",
+      "C": "Cláusula incontestable",
+      "D": "Cláusula no cancelable"
+    },
+    "sourcePage": 19,
+    "answer": "B"
+  },
+  {
+    "id": 69,
+    "question": "Al determinar las necessidades de seguro de vida de suma única, todos los siguites objetivos financieros deben considerarse EXCEPTO:",
+    "options": {
+      "A": "Fondos para educación",
+      "B": "Fondos de jubilación",
+      "C": "Fondos de emergencia",
+      "D": "Fondos para discapacidad"
+    },
+    "sourcePage": 19,
+    "answer": "B"
+  },
+  {
+    "id": 70,
+    "question": "Si el titulardes contrato rescata completamente un contrato de anualidade, cualquier cargo de rescate aplicable:",
+    "options": {
+      "A": "Reducirá la liquidación contrato final",
+      "B": "Se parará en adición al valor de acumulación",
+      "C": "Determinará las opciones pago disponibles",
+      "D": "Se retendrá para pagar futuros costos administrativos"
+    },
+    "sourcePage": 19,
+    "answer": "A"
+  },
+  {
+    "id": 71,
+    "question": "Bajo la regulación federal de fraude y falso testimonio, el comercio interestatal incluye a:",
+    "options": {
+      "A": "Mexico",
+      "B": "Canadá",
+      "C": "Bahamas",
+      "D": "Puerto Rico Página 19 de 94"
+    },
+    "sourcePage": 19,
+    "answer": "D"
+  },
+  {
+    "id": 72,
+    "question": "Qué de lo siguiente se usa comúnmente para estructurar el pago de liquidaciones de un seguro de responsabilidad, premios de la loteria y otras sumas grandes?",
+    "options": {
+      "A": "Un contrato dotal modificado",
+      "B": "Una custa de jubilación individual",
+      "C": "Una anualidad con amparo tributario bajo sección 403(b)",
+      "D": "Una anualidad inmediata"
+    },
+    "sourcePage": 20,
+    "answer": "D"
+  },
+  {
+    "id": 73,
+    "question": "La autoridad no escrita que tiene un agente para hacer trámites incidentales para poder cumplir con el contrato de la compañía de seguros es?",
+    "options": {
+      "A": "Autoridad implicita",
+      "B": "Autoridad decretada",
+      "C": "Autoridad expresa",
+      "D": "Ínexistente"
+    },
+    "sourcePage": 20,
+    "answer": "A"
+  },
+  {
+    "id": 74,
+    "question": "Un contrato de acuerdo de seguro de vida es un acuerdo entre un(a)",
+    "options": {
+      "A": "Titular de una pólizade seguro de un proveedor de un acuerdo de seguro de vida.",
+      "B": "Caja de ahorros y un proveedor de seguro de via.",
+      "C": "Compañía de seguros de vida y uno agente de acuerdo de seguros de vida.",
+      "D": "Titular de una póliza de seguro de vida y y una compañía de seguro de vida."
+    },
+    "sourcePage": 20,
+    "answer": "D"
+  },
+  {
+    "id": 75,
+    "question": "Como afecta el pago de un beneficio acelerado a una póliza de seguro de vida?",
+    "options": {
+      "A": "Aumenta el valor en efectivo",
+      "B": "Aumenta lágrima de la póliza.",
+      "C": "Reduce el período de gracia.",
+      "D": "Reduce el beneficio por muete. Página 20 de 94"
+    },
+    "sourcePage": 20,
+    "answer": "D"
+  },
+  {
+    "id": 76,
+    "question": "Los problemas que pueden surgir si la designación de beneficiarios no es clara en una póliza de seguro de vida incluye todo lo seguiente, EXCEPTO:",
+    "options": {
+      "A": "El pago del monto pagadero podría demorarse.",
+      "B": "Podrían surgir disputas entre los posibl beneficiarios",
+      "C": "El monto pagadero podría pagarse a otr persona que no sea la persona deseada.",
+      "D": "El monto paradero podría ser confiscad por la compañia de seguros."
+    },
+    "sourcePage": 21,
+    "answer": "D"
+  },
+  {
+    "id": 77,
+    "question": "las disposiciones de valor efectivo normalmente se encuentran en todas las pólizas de seguro de vida siguientes, EXCEPTO:",
+    "options": {
+      "A": "Seguro de vida universal",
+      "B": "Seguro de vida ajustable",
+      "C": "Seguro de vida a término decreciente",
+      "D": "Seguro de vida entera"
+    },
+    "sourcePage": 21,
+    "answer": "C"
+  },
+  {
+    "id": 78,
+    "question": "Qué producto de seguros ofrece una garantia de tasa mínima y una ganancia potencialmente mayor com base en el mercado de valores?",
+    "options": {
+      "A": "De vida variable",
+      "B": "De vida crédito es",
+      "C": "De vida común mejorado",
+      "D": "De vida indexado con el mercado ra do"
+    },
+    "sourcePage": 21,
+    "answer": "D"
+  },
+  {
+    "id": 79,
+    "question": "Cuál es el estado de los impuestos respecto al interés acreditado a los valores en efectivo de las anualidades no aprobadas de propiedad personal?",
+    "options": {
+      "A": "Impuestos deducibles",
+      "B": "Impuestos diferidos",
+      "C": "Exento de impuestos",
+      "D": "Impuestos sobre las ganancias de capital"
+    },
+    "sourcePage": 21,
+    "answer": "D"
+  },
+  {
+    "id": 80,
+    "question": "La desición de una compañia de seguros de no hacer cumplir una disposición del contrato se llama:",
+    "options": {
+      "A": "Una renuncia",
+      "B": "Una cesión",
+      "C": "Un encubrimiento",
+      "D": "Una declaración"
+    },
+    "sourcePage": 22,
+    "answer": "A"
+  },
+  {
+    "id": 81,
+    "question": "La contribución anual a la cuenta de un empleado que participa en un plan de jubilación aprobado :",
+    "options": {
+      "A": "Puede ser cualquier monto según lo determine el empleador para cada año",
+      "B": "Debe ser el mismo monto para cada empleado de tiempo completo",
+      "C": "No puede exceder los limites máximos determinados por el Servicio de Rentas internas",
+      "D": "Generalmente refleja el rendimiento individual del empleado cada año"
+    },
+    "sourcePage": 22,
+    "answer": "C"
+  },
+  {
+    "id": 82,
+    "question": "Todas la segnintes son ventajas de un seguro de vida entera EXCEPTO:",
+    "options": {
+      "A": "Se podría obtener un préstamo respaldado por la póliza",
+      "B": "Proporciona protección a largo plazo",
+      "C": "El costo inicial de la cobertura es menor que el de un monto equivalente de un seguro a término",
+      "D": "Tine un valor en efectivo si la póliza fue cancelada después de un periodo de timpo suficiente"
+    },
+    "sourcePage": 22,
+    "answer": "C"
+  },
+  {
+    "id": 83,
+    "question": "Qué ventaja obten una empresa que proporciona un plan de jubilación aprobado, en vez de un plan no aprobado?",
+    "options": {
+      "A": "Puede ser diseñado para beneficiar sólo a varios empleados chaves",
+      "B": "Las contribuciones del empleador al pueden deducirse de los impuestos",
+      "C": "Los fondos del plan están disponibles para las necessidades generales de la empresa",
+      "D": "Es útil para recompensar a ciertos empleados por hacer hecho un buen trabajo"
+    },
+    "sourcePage": 22,
+    "answer": "B"
+  },
+  {
+    "id": 84,
+    "question": "Bajo las reglas de un contrato dotal modificado (MEC, por sus siglas en inglés), si se produce un cambio esencial en el contrato:",
+    "options": {
+      "A": "Se generan ingresos gravables durante ese año",
+      "B": "Se cobra una multa fiscal al dueño de la póliza",
+      "C": "Se aplica nuevamente la prueba de los siete pagos, ajustada al valor en efectivo",
+      "D": "Los préstamos pendientes sobre la póliza se deben pagar en su totalidad"
+    },
+    "sourcePage": 23,
+    "answer": "C"
+  },
+  {
+    "id": 85,
+    "question": "Qué grupo conforma la Agencia de Información Médica (Medical Information Bureau)?",
+    "options": {
+      "A": "Los consumidores",
+      "B": "Los agentes de seguros",
+      "C": "Las compañías de seguro",
+      "D": "Los médicos"
+    },
+    "sourcePage": 23,
+    "answer": "C"
+  },
+  {
+    "id": 86,
+    "question": "Las anualidades vitalicias individuales se caracterizanpor que tienen SÓLO:",
+    "options": {
+      "A": "Un beneficiario (annuitant)",
+      "B": "Una prima",
+      "C": "Un beneficiario (beneficiary)",
+      "D": "Un beneficio de suma global"
+    },
+    "sourcePage": 23,
+    "answer": "B"
+  },
+  {
+    "id": 87,
+    "question": "Un beneficiario revocable en una póliza de seguro de vida:",
+    "options": {
+      "A": "Tiene el derecho de nombrar a un beneficiario contingente",
+      "B": "No tiene derecho conferidos en la póliza",
+      "C": "Debe otorgar permiso para que el asegurado rescate la póliza",
+      "D": "Puede demandar el valor de resgate en efectivo de la póliza en cualquier momento Página 23 de 94"
+    },
+    "sourcePage": 23,
+    "answer": "B"
+  },
+  {
+    "id": 88,
+    "question": "Para que un benefio por fallecimiento accidental de un seguro de vida pueda pagarse, normalmente se deben cumplir todas las condiciones siguintes, EXCEPTO:",
+    "options": {
+      "A": "El fallecimento debe ser el resultado de una lesión corporal accidental.",
+      "B": "El fallecimento debe ocurrir dentro de un número especificado de días después de la lesión.",
+      "C": "El fallecimiento debe ser el resultado de una lesión relacionada con el trabajo",
+      "D": "La lesión debe ocurrir antes de alguna edad especificada."
+    },
+    "sourcePage": 24,
+    "answer": "C"
+  },
+  {
+    "id": 89,
+    "question": "Cuando un suscriptor solicita a un médico información sobre el tratamiento médico reciente de un solicitante, el médico",
+    "options": {
+      "A": "Responderá sólo si el tratamiento ocurrio en los últimos dos años",
+      "B": "Requerirá una solicitud por escrito del suscriptor",
+      "C": "Volverá a examinar al solicitante",
+      "D": "Requerirá una autorización por escrito firmada del solicitante"
+    },
+    "sourcePage": 24,
+    "answer": "D"
+  },
+  {
+    "id": 90,
+    "question": "Todo lo siguinte acerca de los seguros es cierto, EXCEPTO:",
+    "options": {
+      "A": "Una pérdida grande incierta es intercambiada por un gasto pequeño cierto.",
+      "B": "A medida que aumenta el número de unidades aseguradoras, el número de pérdidas se reduce.",
+      "C": "El asegurado transfiere el riesgo de pérdida al asegurador",
+      "D": "El asegurado puede retener parte de la pérdida por medio de deducibles."
+    },
+    "sourcePage": 24,
+    "answer": "B"
+  },
+  {
+    "id": 91,
+    "question": "La mejor maneira de describir una póliza de seguro de vida universal seria como una combinación de:",
+    "options": {
+      "A": "Un fondo mutuo y una póliza de seguro de vida entera",
+      "B": "Una póliza de seguro de vida a término y una anualidad",
+      "C": "Una póliza dotal y un fondo de depósito sensible a los intereses y",
+      "D": "Un fondo de depósitos de prima flexibley una póliza de seguro a término renovable mensualmente"
+    },
+    "sourcePage": 24,
+    "answer": "D"
+  },
+  {
+    "id": 92,
+    "question": "Un plan de seguro de vida colectivo debe asegurar a todos los empleados aprobados si:",
+    "options": {
+      "A": "El grupo se formó con el único propósito de obtenerun seguro",
+      "B": "El empleador paga la prima completa",
+      "C": "Los empleados están cubiertos bajo un plan de jubilación",
+      "D": "El empleador paga un seguro de salud colectivo"
+    },
+    "sourcePage": 25,
+    "answer": "B"
+  },
+  {
+    "id": 93,
+    "question": "Si tanto el beneficiario primario como el beneficiario eventual de una póliza de seguro de vida han fallecido, los beneficios se pagan:",
+    "options": {
+      "A": "A la compañia de seguros",
+      "B": "Al estado de residencia",
+      "C": "Al caudal hereditario del asegurado",
+      "D": "Al caudal hereditatario del beneficiario eventual"
+    },
+    "sourcePage": 25,
+    "answer": "C"
+  },
+  {
+    "id": 94,
+    "question": "La medición contable de las futuras obligaciones de la aseguradora con sus asegurados en:",
+    "options": {
+      "A": "Excedente",
+      "B": "Reservas",
+      "C": "Fondos de contingencia",
+      "D": "Cuenta de capital"
+    },
+    "sourcePage": 25,
+    "answer": "B"
+  }
+]
